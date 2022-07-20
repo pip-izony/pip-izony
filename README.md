@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ff7f27&height=300&section=header&text=pip-izony&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=a16a18&height=300&section=header&text=pip-izony&fontSize=90)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pip-izony&show_icons=true&theme=great-gatsby)
 
 <!--
