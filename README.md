@@ -3,6 +3,7 @@
 ![Izony's GitHub stats](https://github-readme-stats.vercel.app/api?username=pip-izony&show_icons=true&theme=gradient&count_private=true)
 ## 👨‍💻Tech Stack
 <div style="text-align: center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pip-izony&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
   ![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
