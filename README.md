@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ff6600&height=300&section=header&text=pip-izony&fontSize=90)
 ## 🏃Github Stats
-![Izony's GitHub stats](https://github-readme-stats.vercel.app/api?username=pip-izony&show_icons=true&theme=codeSTACKr)
+![Izony's GitHub stats](https://github-readme-stats.vercel.app/api?username=pip-izony&show_icons=true&theme=dark&bg_color=000000)
 ## 👨‍💻Tech Stack
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pip-izony&layout=compact&theme=codeSTACKr)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pip-izony&layout=compact&theme=dark&bg_color=000000)
 <div style="text-align: center">
 
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
