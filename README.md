@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&height=300&color=000000&fontColor=FFFFFF&section=header&text=pip-izony&fontSize=90&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=soft&height=300&color=000000&fontColor=FFFFFF&section=header&text=pip-izony&fontSize=90&animation=twinkling)
 ## 🏃Github Stats
 ![Izony's GitHub stats](https://github-readme-stats.vercel.app/api?username=pip-izony&show_icons=true&theme=dark&bg_color=000000)
 ## 👨‍💻Tech Stack
