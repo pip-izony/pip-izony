@@ -1,8 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=soft&height=300&color=000000&fontColor=FFFFFF&section=header&text=pip-izony&fontSize=90&animation=twinkling)
-## 🏃Github Stats
-![Izony's GitHub stats](https://github-readme-stats.vercel.app/api?username=pip-izony&show_icons=true&theme=dark&bg_color=000000)
-## 👨‍💻Tech Stack
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pip-izony&layout=compact&theme=dark&bg_color=000000)
+<p align="center" >
+  <a href="https://github.com/pip-izony/github-stats-terminal-style/actions/workflows/main.yml">
+    <img src="https://github.com/pip-izony/github-stats-terminal-style/actions/workflows/main.yml/badge.svg" alt="Update Github Stats" title="Terminal Style GitHub Stats">
+  </a>
+</p>
+
+<p align='center'>
+  <img align="center" src="https://github.com/pip-izony/github-stats-terminal-style/blob/master/github_stats.svg">
+</p>
+
 <div style="text-align: center">
 
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
