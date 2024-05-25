@@ -8,7 +8,7 @@
   <img align="center" src="https://github.com/pip-izony/github-stats-terminal-style/blob/master/github_stats.svg">
 </p>
 
-<div style="text-align: center">
+<div align='center' style="text-align: center">
 
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
   ![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
