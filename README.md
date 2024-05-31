@@ -23,3 +23,32 @@
   ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
 
 </div>
+
+#
+
+<h3 align="center"><img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="5%" height="5%" align="center"> CVEs</h3>
+
+<div align="center" style="text-align: center; margin-top: 20px;">
+  <table>
+    <thead>
+      <tr>
+        <th>CVE ID</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-50044">CVE-2023-50044</a></td>
+        <td>Buffer Overflow</td>
+      </tr>
+      <tr>
+        <td><a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-50628">CVE-2023-50628</a></td>
+        <td>Buffer Overflow</td>
+      </tr>
+      <tr>
+        <td><a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-51257">CVE-2023-51257</a></td>
+        <td>Integer Overflow</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
