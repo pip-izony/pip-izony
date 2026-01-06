@@ -20,7 +20,8 @@
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
+  ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+  ![LLVM](https://img.shields.io/badge/LLVM14-grey?style=for-the-badge&logo=llvm)
 
 </div>
 
@@ -33,21 +34,33 @@
     <thead>
       <tr>
         <th>CVE ID</th>
-        <th>Description</th>
+        <th>Product</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td><a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-50044">CVE-2023-50044</a></td>
-        <td>Buffer Overflow</td>
+        <td>cesanta/mjs</td>
       </tr>
       <tr>
         <td><a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-50628">CVE-2023-50628</a></td>
-        <td>Buffer Overflow</td>
+        <td>libming/libming</td>
       </tr>
       <tr>
         <td><a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-51257">CVE-2023-51257</a></td>
-        <td>Integer Overflow</td>
+        <td>jasper-software/jasper</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.cve.org/CVERecord?id=CVE-2025-68217">CVE-2025-68217</a></td>
+        <td>linux kernel</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.cve.org/CVERecord?id=CVE-2025-68308">CVE-2025-68308</a></td>
+        <td>linux kernel</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.cve.org/CVERecord?id=CVE-2025-68362">CVE-2025-68362</a></td>
+        <td>linux kernel</td>
       </tr>
     </tbody>
   </table>
