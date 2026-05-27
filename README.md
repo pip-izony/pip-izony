@@ -63,7 +63,7 @@
         <td>linux kernel</td>
       </tr>
       <tr>
-        <td><a href="https://www.cve.org/CVERecord?id=CVE-2026-31412">CVE-2026-3141</a></td>
+        <td><a href="https://www.cve.org/CVERecord?id=CVE-2026-31412">CVE-2026-31412</a></td>
         <td>linux kernel</td>
       </tr>
     </tbody>
